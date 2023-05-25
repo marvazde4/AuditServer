@@ -2,8 +2,8 @@ plugins {
 	id 'org.springframework.boot' version '3.1.0'
 	id 'io.spring.dependency-management' version '1.1.0'
 	id 'java'
-	id "com.palantir.docker" version "0.33.0"
-	id "com.palantir.docker-run" version "0.33.0"
+	id "com.palantir.docker" version "0.35.0"
+	id "com.palantir.docker-run" version "0.35.0"
 	//información de los plugin docker https://github.com/palantir/gradle-docker
 }
 
